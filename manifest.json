@@ -1,6 +1,7 @@
 {
   "name": "Ann al chache Wayòm nan",
   "short_name": "WayòmNan",
+  "description": "Yon aplikasyon jwèt ak edikasyon sou epòk antik la ak Wayòm nan.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#1c140c",
